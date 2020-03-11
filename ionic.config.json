@@ -1,0 +1,7 @@
+{
+  "name": "react-netflix",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

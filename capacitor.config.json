@@ -1,0 +1,8 @@
+{
+  "appId": "com.react.netflix",
+  "appName": "react-netflix",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}
